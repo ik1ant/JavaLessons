@@ -1,7 +1,7 @@
 public class HelpJava2 {
     public static void main(String[] args) throws java.io.IOException {
 
-        System.out.println("Справка по");
+        System.out.println("Справка по 123456");
         System.out.println("1. if");
         System.out.println("2. switch");
         System.out.print("Выберите вариант: ");
